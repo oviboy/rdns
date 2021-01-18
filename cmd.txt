@@ -1,0 +1,2 @@
+ex:
+curl -i -u "144.102.46.in-addr:password" -X POST -H "Content-Type: application/json" --data '{"recordName":"54","ptrDomainName":"datanode.eu"}' http://cp01.datanode.eu:8080/add

@@ -1,0 +1,6 @@
+com/rdns/rohost/User.class
+com/rdns/rohost/UserRepository.class
+com/rdns/rohost/MyApp.class
+com/rdns/rohost/WebSecurityConfig.class
+com/rdns/rohost/RdnsApplication.class
+com/rdns/rohost/MyReqData.class
